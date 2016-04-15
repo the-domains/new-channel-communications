@@ -1,0 +1,28 @@
+name: New Channel Communications
+favicon: null
+layout_spectrum: 0.023216439876705408
+typography_spectrum: 0.45424702763557434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9335979535244405
+  lightness: 0.8202759004198015
+  saturation: 0.6658733892254531
+  rhythmicContrast: 0.7362281808163971
+purpose: []
