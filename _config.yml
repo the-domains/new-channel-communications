@@ -19,6 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Michael Fox
+  email: MichaelFoxEmail@Gmail.com
+  url: www.NewChannelMedia.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b17b83d-0adb-41c1-86f1-08ef57e4ab52.png
 name: New Channel Communications
 cta:
   domain: null
